@@ -1,3 +1,3 @@
 # cosmos-client
-Client for cosmos project
+> Client for cosmos project
 
