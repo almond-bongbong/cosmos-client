@@ -1,5 +1,12 @@
 # cosmos-client
-> Client for cosmos project
+> Client for cosmos project.
 
-## idea
-awesome web application with space photo
+## Motive
+Something web application with awesome space photo
+
+### Idea
+- 방대한 우주를 느끼며 고민을 날리자. 
+
+## Screens
+- [ ] Main space home
+
